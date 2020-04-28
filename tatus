@@ -1,0 +1,24 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex dc884bb..0ab306e 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -67,7 +67,7 @@[m
+ 			<div class="hs-item set-bg" data-setbg="img/slider-1.jpg">[m
+ 				<div class="hs-text">[m
+ 					<div class="container">[m
+[31m-						<h2>The Best <span>Games</span> Out There</h2>[m
+[32m+[m						[32m<h2>la bestia<span>juegos</span> siempre en linea</h2>[m[41m[m
+ 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada <br> lorem maximus mauris scelerisque, at rutrum nulla dictum. Ut ac ligula sapien. <br>Suspendisse cursus faucibus finibus.</p>[m
+ 						<a href="#" class="site-btn">Read More</a>[m
+ 					</div>[m
+[36m@@ -76,8 +76,8 @@[m
+ 			<div class="hs-item set-bg" data-setbg="img/slider-2.jpg">[m
+ 				<div class="hs-text">[m
+ 					<div class="container">[m
+[31m-						<h2>The Best <span>Games</span> Out There</h2>[m
+[31m-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada <br> lorem maximus mauris scelerisque, at rutrum nulla dictum. Ut ac ligula sapien. <br>Suspendisse cursus faucibus finibus.</p>[m
+[32m+[m						[32m<h2>la bestia<span>juegos</span> siempre en linea</h2>[m[41m[m
+[32m+[m						[32m<p>apuestas 24 horas video juegos<br> pon a prueba tus habilidades <br>Suspendisse cursus faucibus finibus.</p>[m[41m[m
+ 						<a href="#" class="site-btn">Read More</a>[m
+ 					</div>[m
+ 				</div>[m
